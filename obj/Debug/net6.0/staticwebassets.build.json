@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "nMn60hQhSbNzIiBYlceiCfAa6VAQZB9/XeAccfYve94=",
+  "Source": "oaBot",
+  "BasePath": "_content/oaBot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "oaBot\\wwwroot",
+      "Source": "oaBot",
+      "ContentRoot": "C:\\Users\\edaviles\\code\\oaBot\\oaBot\\wwwroot\\",
+      "BasePath": "_content/oaBot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\edaviles\\code\\oaBot\\oaBot\\wwwroot\\default.html",
+      "SourceId": "oaBot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\edaviles\\code\\oaBot\\oaBot\\wwwroot\\",
+      "BasePath": "_content/oaBot",
+      "RelativePath": "default.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.html"
+    }
+  ]
+}
